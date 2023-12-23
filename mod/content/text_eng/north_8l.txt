@@ -1,0 +1,12 @@
+sm3
+dll1
+
+This situation has gotten out of control. Too much is happening at once. 
+You grab your spear as the mass of tentacles moves towards you.
+"Glooodgldloolldloo-ooololglopglopp!!"
+You put the tip of the spear in your mouth, coating it in void fluid. 
+"Glglglgl-ooooo-loplplplpl!"
+"begone, rot!"
+
+Throw your spear at the creature.
+north_8m.txt

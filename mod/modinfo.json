@@ -1,10 +1,10 @@
 ﻿{
-	"id": "author.slugtemplate",
-	"name": "Slugcat Template",
+	"id": "adalynn.citizen",
+	"name": "The Citizen",
 	"version": "0.1.0",
-	"authors": "Author",
-	"description": "A template for making SlugBase mods.",
-	"requirements": [ "slime-cubed.slugbase" ],
-	"requirements_names": [ "SlugBase" ],
+	"authors": "Adalynn",
+	"description": "A reimagining of the ??? campaign.",
+	"requirements": [ "slime-cubed.slugbase", "moreslugcats" ],
+	"requirements_names": [ "SlugBase", "More Slugcats Expansion" ],
 	"tags": [ "Custom Slugcat" ]
 }

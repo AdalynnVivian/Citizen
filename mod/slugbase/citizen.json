@@ -1,0 +1,48 @@
+{
+	"id": "Citizen",
+	"name": "The Citizen",
+	"description": "Created by Pebbles in a last-ditch attempt, your purpose is to destroy rot. ",
+	"features": {
+		"color": "16234d",
+		"custom_colors": [
+			{
+				"name": "Body",
+				"story": "16234d",
+				"arena": [ "FFFFFF", "FF8080", "80FF80", "8080FF" ]
+			},
+			{
+				"name": "Eyes",
+				"story": "ffffff",
+				"arena":  ["000000", "ffffff", "ffffff", "ffffff"]
+			},
+   {
+    "name": "Scar",
+    "story": "fcc962",
+    "arena": ["fcc962", "fcc962", "fcc962", "fcc962"]
+   }
+		],
+		"tunnel_speed": 1.2,
+		"climb_speed": 1.25,
+		"walk_speed": 1.2,
+		"throw_skill": 2,
+		"diet": {
+			"plants": 1.0,
+			"meat": 1.0,
+			"corpses": 0.5,
+   "overrides": {
+    "EggBugEgg": 0
+   }
+		},
+		"back_spear": false,
+		"can_maul": true,
+		"the_mark": true,
+		"start_room": "LC_S04",
+		"food_min": 12,
+		"food_max": 12,
+		"timeline_before": "Hunter",
+		"timeline_after": "Artificer",
+		"world_state": "Inv",
+		"select_menu_scene": "Slugcat_Citizen",
+		"select_menu_scene_ascended": "Ghost_Citizen"
+	}
+}

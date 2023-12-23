@@ -1,0 +1,12 @@
+sm5
+none
+
+It has its intended effect, and the creature falls into a blue puddle.
+The writhing, ascended mass falls limp to the ground.
+You, however, have no energy left in you.
+The void fluid within you destabilizes, and you die in spectacular fashion.
+
+RESTART
+start.txt
+
+FADE
